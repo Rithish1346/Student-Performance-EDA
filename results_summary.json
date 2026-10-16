@@ -1,0 +1,21 @@
+{
+  "rows_after_duplicate_removal": 649,
+  "columns_in_dataset": 33,
+  "predictor_features_used": 30,
+  "target": "G3",
+  "target_mean": 11.906009244992296,
+  "target_median": 12.0,
+  "target_std": 3.230656242804805,
+  "target_min": 0.0,
+  "target_max": 19.0,
+  "missing_values_total_before_cleaning": 0,
+  "duplicate_rows_before_cleaning": 0,
+  "note": "G1 and G2 are excluded from model predictors to avoid using earlier-period grades.",
+  "test_MAE": 2.2760891914367676,
+  "test_RMSE": 3.0435770036542285,
+  "test_R2": 0.23187226057052612,
+  "epochs_trained": 34,
+  "train_rows": 454,
+  "validation_rows": 97,
+  "test_rows": 98
+}
